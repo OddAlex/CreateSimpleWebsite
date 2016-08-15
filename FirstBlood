@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FirstBlood</title>
+    <link rel="stylesheet"  type="text/css"  href="homework.css">
+</head>
+<body>
+<div class="header">
+    <img src="images/blah.png">
+    <ul class="nav">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Site</a></li>
+        <li><a href="#">Other</a></li>
+    </ul>
+</div>
+<div class="main-content">
+    <h2>The Beach</h2>
+    <hr>
+        <ul class="photos">
+            <li>
+                <img src="images/0001.jpg"Width="150"Height="150" alt="Pic1">
+            </li>
+            <li>
+                 <img src="images/0003.jpg"Width="150"Height="150" alt="Pic2">
+            </li>
+            <li>
+                <img src="images/0004.jpg"Width="150"Height="150" alt="Pic3">
+            </li>
+            <p>
+                Hey, my name is AlexFang, it's my great honour to build this website for introducing you the beauty of the blah.
+                I hope that you can enjoy the fantasy pictures and stick to our aspirations together.
+            </p>
+        </ul>
+</div>
+<div class="footer">
+    <p>@Alex_Fang</p>
+</div>
+</body>
+</html>
