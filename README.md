@@ -1,0 +1,2 @@
+# CreateSimpleWebsite
+Use pycharm to create a simple static website based on html5, it will be rather easy but i think it will inspire you and become your first step in Web Crawler. You can open the file "FirstBlood.html” by using Pycharm to read the code. Considering the fact that I have not uploaded the images. You can replace it as you like. By the way, you can look the file 'homework.css' to get the fashion style of this website. This is also my first website, I hope that we can make progress together!
